@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "960881034605",
+    "firebase_url": "https://ieeehackathonapp1.firebaseio.com",
+    "project_id": "ieeehackathonapp1",
+    "storage_bucket": "ieeehackathonapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960881034605:android:bd5cb17f2e647b07",
+        "android_client_info": {
+          "package_name": "com.id.drapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960881034605-87hvsetkdbu6svma5nl6h59tgf584i2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.id.drapp",
+            "certificate_hash": "540d51f3c3bdbcf7e361dd2bf60534153f6580e2"
+          }
+        },
+        {
+          "client_id": "960881034605-6qtj03j4tbpms3ggh60o1i4b7ep6kqph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGsbuq9CyMka0TLYOWCIztaS6gbW0k84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960881034605-6qtj03j4tbpms3ggh60o1i4b7ep6kqph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

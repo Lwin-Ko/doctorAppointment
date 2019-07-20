@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/loginCream</color>
+    <color name="colorPrimaryDark">#ffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="loginCream">#f2f7ff</color>
+    <color name="colorRotate">#7c0fe9</color>
+    <color name="lightgreen">#1203ba</color>
+    <color name="actionBar">#6e04b9</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#3e1ed9</color>
+    <color name="noInternet">#FFAACE9F</color>
+</resources>

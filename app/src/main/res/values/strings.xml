@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoctorAppointment</string>
+    <string name="privacyterms">Privacy &amp; Terms</string>
+    <string name="createAccount">Create Account</string>
+    <string name="title_activity_patients">patientsActivity</string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_chatbot">chatbot</string>
+</resources>
